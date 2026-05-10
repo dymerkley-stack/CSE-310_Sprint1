@@ -26,12 +26,30 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|4/27/2026 |Not known |Individ |Created a plan to learn data analytics      | 30          |
-|4/29/2026 |7:30      |Individ |Learned about Pandas                        | 30          |
-|4/30/2026 |11        |Individ |Aquired data set and walked through kaggle course| 30     |
-|4/30/2026 |11:45     |Individ |Troubleshooting setting up pandas           | 30          |
-|4/30/2026 |6         |Individ |Start with data analysis                    | 90          |
-|          |          |        |                                            |             |
+|4/27/2026 |Not known |IM      |Created a plan to learn data analytics      | 0:30        |
+|4/29/2026 |7:30      |IM      |Learned about Pandas                        | 0:30        |
+|4/28/2026 |12:45     |MTG     |Class                                       | 1:00        |
+|4/28/2026 |1:30      |TP      |Class team Project work day                 | 1:00        |
+|4/30/2026 |11        |IM      |Aquired data set and walked through kaggle  | 0:30        |
+|4/30/2026 |11:45     |IM      |Troubleshooting setting up pandas           | 0:30        |
+|4/30/2026 |12:45     |MTG     |Class                                       | 1:00        |
+|4/30/2026 |1:30      |TP      |Class Team Project                          | 0:15        |
+|4/30/2026 |6         |IM      |Start with data analysis                    | 1:30        |
+|5/5/2026  |12:45     |MTG     |Class                                       | 1:00        |
+|5/5/2026  |1:15      |IM      |Finish Data manipulation try to figure out  | 1:00        |
+|          |          |        |problems with pandas                        |             |
+|5/6/2026  |5:15      |IM      |Start Analyzing data to answer questions    | 2:00        |
+|5/7/2026  |10:45     |TP      |Populate team data and project description  | 0:30        |
+|5/7/2026  |12:45     |MTG     |Class                                       | 1:00        |
+|5/7/2026  |1:30      |TP      |Meet with team about project                | 1:00        |
+|5/7/2026  |10:15     |IM      |Fill Read me add stats                      | 1:00        |
+|5/9/2026  |11        |IM      |Add final report and more graphs            | 2:30        |
+|5/9/2026  |1:30      |TP      |Learn about data storage and experiment     | 1:15        |
+
+
+
+
+
 
 _Note: Add more rows as needed._
 
@@ -39,7 +57,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         | 10                       |
+|TP - Team Project              | 4                        |
+|MTG - Class Meetings           | 4                        |
+|**TOTAL**                      | 18                       |

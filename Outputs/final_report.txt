@@ -1,0 +1,64 @@
+BYU Volleyball Analytics Report
+==================================================
+
+Project Overview
+------------------------------
+This project analyzes BYU men's volleyball performance using team and player statistics.
+The analysis focuses on identifying which statistics most strongly contribute to winning.
+
+Key Team Findings
+------------------------------
+Statistics most associated with winning:
+- PointScoringPct: correlation = 0.926
+- Sets Won: correlation = 0.920
+- SideOutDiff: correlation = 0.872
+- PointScoringDiff: correlation = 0.872
+- BlockDiff: correlation = 0.692
+
+Statistics most associated with losing:
+- AttackErrorDiff: correlation = -0.744
+- OppKill: correlation = -0.833
+- OppHittingPct: correlation = -0.845
+- OppSideOutPct: correlation = -0.926
+- Sets Lost: correlation = -0.981
+
+Top Player Impact Scores
+------------------------------
+OLDANI,CONNOR: Impact Score = 319.90
+MOSER,TRENT: Impact Score = 234.70
+COTTLE,AJ: Impact Score = 213.70
+TUFUGA,TEILON-JONAT: Impact Score = 168.60
+HERGET,TREVOR: Impact Score = 143.50
+CHAMBERS,GAVIN: Impact Score = 138.30
+HERGET,TYLER: Impact Score = 111.90
+FIFE,JACKSON: Impact Score = 60.00
+PHILIPPE,MAX: Impact Score = 52.50
+LITTLE,IAN: Impact Score = 29.20
+
+Top Player Efficiencies
+------------------------------
+PHILIPPE,MAX: Efficiency = 0.611
+COTTLE,AJ: Efficiency = 0.514
+CHAMBERS,GAVIN: Efficiency = 0.448
+LIGHTHALL,TENNISON: Efficiency = 0.368
+OLDANI,CONNOR: Efficiency = 0.335
+LITTLE,IAN: Efficiency = 0.333
+MOSER,TRENT: Efficiency = 0.309
+HERGET,TREVOR: Efficiency = 0.294
+TUFUGA,TEILON-JONAT: Efficiency = 0.247
+HERGET,TYLER: Efficiency = 0.022
+
+Machine Learning Results
+------------------------------
+Logistic Regression Accuracy: 1.00
+
+Final Conclusions
+------------------------------
+Winning was strongly associated with:
+- Positive kill differential
+- Higher hitting efficiency
+- Better side-out percentage
+- Stronger blocking performance
+- Improved defensive statistics
+
+Graphs and visualizations were saved to the Outputs folder.
